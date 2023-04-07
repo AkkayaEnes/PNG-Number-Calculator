@@ -1,0 +1,11 @@
+D:\Visual studio projects\Calculator\Calculator\bin\Release\Calculator.exe.config
+D:\Visual studio projects\Calculator\Calculator\bin\Release\Calculator.exe
+D:\Visual studio projects\Calculator\Calculator\bin\Release\Calculator.pdb
+D:\Visual studio projects\Calculator\Calculator\obj\Release\Calculator.FormProgrammer.resources
+D:\Visual studio projects\Calculator\Calculator\obj\Release\Calculator.FormSimple.resources
+D:\Visual studio projects\Calculator\Calculator\obj\Release\Calculator.FormDates.resources
+D:\Visual studio projects\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\Visual studio projects\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+D:\Visual studio projects\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\Calculator\Calculator\obj\Release\Calculator.exe
+D:\Visual studio projects\Calculator\Calculator\obj\Release\Calculator.pdb
